@@ -22,7 +22,7 @@ Welcome to [IHA089](https://iha089.org.in/), your go-to destination for all thin
 At [IHA089](https://iha089.org.in/), our mission is to democratize knowledge and make technology accessible to everyone. Whether you’re a seasoned developer, a cybersecurity professional, or someone just starting their journey in the tech world, we aim to be your reliable source of information and inspiration.
 
 ## Connect with us 
-Explore our website, engage with our content, and join the iha089.org.in community on social media. We value your feedback, suggestions, and contributions, as they play a crucial role in shaping the future of our platform.
+Explore our website, engage with our content, and join the [IHA089](https://iha089.org.in/) community on social media. We value your feedback, suggestions, and contributions, as they play a crucial role in shaping the future of our platform.
 
 Thank you for being part of our journey. Together, let’s explore, learn, and secure the digital landscape.
 
