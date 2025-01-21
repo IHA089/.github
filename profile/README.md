@@ -4,7 +4,7 @@
 ---
 
 ## About Us
-Welcome to **IHA089**, your go-to destination for all things programming and cybersecurity! At [iha089.org.in](https://iha089.org.in), we are passionate about empowering individuals with knowledge and skills in the dynamic fields of programming and cybersecurity.
+Welcome to **IHA089**, your go-to destination for all things programming and cybersecurity! At [iha089.org](https://iha089.org), we are passionate about empowering individuals with knowledge and skills in the dynamic fields of programming and cybersecurity.
 
 ## What We Offer
 - **Expert Insights**: Our team of seasoned professionals brings a wealth of experience in programming and cybersecurity. We are committed to providing you with insightful articles, tutorials, and guides to help you navigate the ever-evolving world of technology.
@@ -23,7 +23,7 @@ Explore our website, engage with our content, and join the **IHA089** community 
 
 Thank you for being part of our journey. Together, let’s explore, learn, and secure the digital landscape.<br>
 <p >
-  <a href="https://iha089.org.in"><img src="https://iha089.org.in/wp-content/uploads/2024/03/IHA089.png" alt="LinkedIn" width="55" height="55"></a>
+  <a href="https://iha089.org"><img src="https://iha089.org.in/wp-content/uploads/2024/03/IHA089.png" alt="LinkedIn" width="55" height="55"></a>
   <a href="https://www.instagram.com/iha089"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="55" height="55"></a>
   <a href="https://www.youtube.com/@IHA089"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="55" height="55"></a>
   <a href="https://www.linkedin.com/company/iha089"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="55" height="55"></a>
@@ -32,9 +32,4 @@ Thank you for being part of our journey. Together, let’s explore, learn, and s
   <a href="https://whatsapp.com/channel/0029Va4gpDw6LwHqmiFnqT2t"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="55" height="55"></a>
   <a href="https://twitter.com/iha089"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="55" height="55"></a>
   <a href="https://www.threads.net/@iha089">   <img src="https://freelogopng.com/images/all_img/1688663318threads-logo-white.png" alt="Threads" width="55" height="55"> </a>
-
-
-
-
-
 </p>
