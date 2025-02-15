@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=IHA089&label=Profile%20Views&color=0e75b6&style=flat)
 <h1 align="center">Welcome to IHA089</h1>
 <h3 align="center"><em>Navigating the Digital Realm with Code and Security – Where Programming Insights Meet Cyber Vigilance</em></h3>
 
