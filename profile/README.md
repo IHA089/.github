@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=IHA089&label=Profile%20Views&color=0e75b6&style=flat)
-<h1 align="center">Welcome to IHA089</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome to IHA089" alt="Typing VAG">
+</div>
 <h3 align="center"><em>Navigating the Digital Realm with Code and Security – Where Programming Insights Meet Cyber Vigilance</em></h3>
 
 ---
