@@ -1,6 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=IHA089&label=Profile%20Views&color=0e75b6&style=flat) 
-<div align="center">
-  <h1>✨ Welcome to IHA089! ✨</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/IHA089-Cybersecurity%20%26%20Ethical%20Hacking-0D47A1?style=for-the-badge&logo=linux&logoColor=white" alt="IHA089" />
+</p>
+
+<h1 align="center">🛡️ IHA089 – Advanced Cybersecurity & Ethical Hacking</h1>
+
+<p align="center">
+  Secure • Analyze • Defend
+</p>
+
 
 </div>
 <h3 align="center"><em>Navigating the Digital Realm with Code and Security – Where Programming Insights Meet Cyber Vigilance</em></h3>
